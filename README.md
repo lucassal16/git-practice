@@ -1,2 +1,5 @@
 # My Git Practice Project
-This is a different line from main branch.
+
+=======
+This is a new line from conflict-branch.
+>>>>>>> conflict-branch
